@@ -253,4 +253,4 @@ This repository serves as the official landing page for UNITALE. The software is
 **Get the most recent version of UNITALE today!**
 
 ---
-**Last updated:** 2026-10-06 11:52:14 UTC
+**Last updated:** 2026-10-06 17:57:09 UTC
